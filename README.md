@@ -51,9 +51,4 @@ THEN the password is either displayed in an alert or written to the page
 
 live demo https://yasminetsu.github.io/password-challenge/
 
-![screenshot](/assets/images/horiseon.png)
-=======
-live demo https://yasminetsu.github.io/password-challenge/
-
-![screenshot](/images/passgenerator.png)
->>>>>>> 536b1a15a83c23e104ccd30e42308535df02bf44
+![screenshot](/assets/images/passgenerator.png)
