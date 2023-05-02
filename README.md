@@ -25,4 +25,4 @@ THEN the password is either displayed in an alert or written to the page
 
 live demo https://yasminetsu.github.io/password-challenge/
 
-![screenshot](/Assets/images/passgenerator.png)
+![screenshot](/images/passgenerator.png)
